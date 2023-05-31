@@ -23,7 +23,7 @@ We'd love for you to join us in our mission! Here's how you can get involved:
 We'd love to hear from you! Stay up to date with our latest news and updates by following us on social media:
 
 - **Website**: [https://cyber.info](https://cyber.info)
-- **Twitter**: [@CyberInfHQ](https://twitter.com/CyberInfHQ)
+- **Twitter**: [@CyberInfoHQ](https://twitter.com/CyberInfoHQ)
 - **LinkedIn**: [Cyber Info](https://www.linkedin.com/company/cyberinfo)
 
 Together, let's make the world of cybersecurity more accessible and secure! 🚀
